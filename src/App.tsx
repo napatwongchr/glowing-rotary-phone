@@ -19,6 +19,15 @@ function App() {
           Todo App
         </a>
       </header>
+
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>Articles</li>
+          <li>News</li>
+          <li>About Us</li>
+        </ul>
+      </nav>
     </div>
   );
 }
