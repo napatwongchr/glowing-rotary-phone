@@ -1,3 +1,10 @@
+# [1.2.0-beta.1](https://github.com/napatwongchr/glowing-rotary-phone/compare/v1.1.0...v1.2.0-beta.1) (2021-09-19)
+
+
+### Features
+
+* **common:** add first article ([efca09d](https://github.com/napatwongchr/glowing-rotary-phone/commit/efca09d37b9c33dfe56760135f9dd84e989b5d51))
+
 # [1.1.0](https://github.com/napatwongchr/glowing-rotary-phone/compare/v1.0.0...v1.1.0) (2021-09-19)
 
 
