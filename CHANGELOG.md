@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/napatwongchr/glowing-rotary-phone/compare/v1.0.0...v1.1.0) (2021-09-19)
+
+
+### Bug Fixes
+
+* **app:** change title wording ([5250fbe](https://github.com/napatwongchr/glowing-rotary-phone/commit/5250fbebedf9a55bb8217aa238d66bf074dfde5e))
+
+
+### Features
+
+* **app:** add navigation bar ([bfeba79](https://github.com/napatwongchr/glowing-rotary-phone/commit/bfeba79acfb3432ef6f912210b83b488e8c3445c))
+
 # 1.0.0 (2021-09-18)
 
 
