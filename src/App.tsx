@@ -28,6 +28,16 @@ function App() {
           <li>About Us</li>
         </ul>
       </nav>
+
+      <article>
+        <h1>First aritcle</h1>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam
+          dolorum non omnis, quos vitae quibusdam a numquam culpa nam ea quis,
+          qui quod, fugit nesciunt voluptate assumenda repudiandae saepe
+          impedit.
+        </p>
+      </article>
     </div>
   );
 }
